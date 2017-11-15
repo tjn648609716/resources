@@ -1,7 +1,7 @@
-1、访问[Server酱][1]
+1、访问Server酱[点我跳转](http://sc.ftqq.com/3.version)
 
 2、用GitHub账号登入网站，就能获得一个SCKEY（在「发送消息」页面） 
-
+![2_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/2.png)
 3、绑定：点击「微信推送」，扫码关注同时即可完成绑定
 ![3_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/3.png)
 4、点击「发送消息」复制SCKEY填入小转发配置规则内的输入框 
