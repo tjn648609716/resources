@@ -2,7 +2,7 @@
 
 2、用GitHub账号登入网站，就能获得一个SCKEY（在「发送消息」页面） 
 
-![2_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/2.png)
+![5_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/5.png)
 
 3、绑定：点击「微信推送」，扫码关注同时即可完成绑定
 
