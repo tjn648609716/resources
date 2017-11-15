@@ -1,6 +1,6 @@
-> * 1、访问[Server酱](http://sc.ftqq.com/3.version)
+> * 1、访问[「Server酱」](http://sc.ftqq.com/3.version)
 
-> * 2、用GitHub账号登入网站，就能获得一个SCKEY（在「发送消息」页面） 
+> * 2、用「GitHub」账号登入网站，就能获得一个「SCKEY」（在「发送消息」页面） 
 
 ![5_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/5.png)
 
@@ -8,7 +8,7 @@
 
 ![3_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/3.png)
 
-> * 4、点击「发送消息」复制SCKEY填入小转发配置规则内的输入框 
+> * 4、点击「发送消息」复制「SCKEY」填入小转发配置规则内的输入框 
 
 ![4_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/4.png)
 
