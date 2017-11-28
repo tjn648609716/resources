@@ -1,4 +1,4 @@
-#### Server配置说明
+### Server配置说明
 
 > * 1、访问[「Server酱」](http://sc.ftqq.com/3.version)
 
@@ -18,6 +18,6 @@
 
 > * 6、点击「白名单」按照提示添加程序到白名单
 
-#### Telegram配置说明
+### Telegram配置说明
 
 > * 维护中...
