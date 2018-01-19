@@ -29,3 +29,5 @@
 
 > * 9、把刚刚复制的token填写到小转发转发模式配置页的输入框,点击测试查看钉钉是否收到推送，如果未收到请仔细检查前边步骤是否有误
 
+![d8_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d8.png)
+
