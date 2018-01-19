@@ -28,7 +28,7 @@
 > * 8、查看您刚刚复制的webhook,复制【access_token=】后的内容（不包含access_token=）
 
 > * 9、把刚刚复制的token填写到小转发转发模式配置页的输入框,点击测试查看钉钉是否收到通知
-配置成功会受到下图通知,如果未收到请仔细检查前边步骤是否有误
+配置成功会收到下图通知,如果未收到请仔细检查前边步骤是否有误
 
 ![d8_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d8.png)
 
