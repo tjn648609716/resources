@@ -25,7 +25,7 @@
 
 ![d6_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d6.png)
 
-> * 8、查看您刚刚复制的webhook,复制【token=】后的内容（不包含token=）
+> * 8、查看您刚刚复制的webhook,复制【access_token=】后的内容（不包含access_token=）
 
 > * 9、把刚刚复制的token填写到小转发转发模式配置页的输入框,点击测试查看钉钉是否收到推送，如果未收到请仔细检查前边步骤是否有误
 
