@@ -7,19 +7,27 @@
 
 > * 3、点击右上角头像，选择机器人管理
 
-![d1_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d1.png)
-![d2_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d2.png)
+![d7_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d7.png)
 
-![3_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/3.png)
+> * 4、选择最后的自定义机器人
 
-> * 4、点击「发送消息」复制「SCKEY」填入小转发配置规则内的输入框 
+![d3_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d3.png)
 
-![4_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/4.png)
+> * 5、机器人详情信息点击添加按钮
 
-> * 5、检查微信是否收到来自「方糖」的系统通知，如可以收到通知表示「Server酱」操作已全部完成 
+![d4_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d4.png)
 
-> * 6、点击「白名单」按照提示添加程序到白名单
+> * 6、输入您喜欢的机器人名字后添加到群组（推荐添加到主页通知：钉钉应用健康小秘）点击下一步
 
-### Telegram配置说明
+![d5_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d5.png)
 
-> * 维护中...
+> * 7、这时候会看到您的机器人webhook，点击复制（转发需要用到webhook里的access_token）
+
+![d6_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d6.png)
+
+> * 8、查看您刚刚复制的webhook,复制【token=】后的内容
+
+https://oapi.dingtalk.com/robot/send?access_token=**19246221108c6cced00c5cee2a8d0aab055009511e98fc1fb9ffa40c1275**
+
+> * 9、把刚刚复制的token填写到小转发,点击测试查看钉钉是否收到推送，如果未收到请仔细检查前边步骤是否有误
+
