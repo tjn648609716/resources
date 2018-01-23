@@ -1,7 +1,7 @@
 {
-    "versionCode":"16",
-    "versionName":"2.4",
+    "versionCode":"17",
+    "versionName":"2.5",
     "size":"7.86",
-    "date":"2017-12-20",
-    "content":"更新菜单显示方式\n优化签到以及登录方式\n"
+    "date":"2018-01-23",
+    "content":"因最近斗鱼弹幕封号问题,签到功能加入开关,用户可选择是否关闭自动签到"
 }
