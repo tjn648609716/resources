@@ -1,8 +1,7 @@
 {
-    "versionCode":"18",
-    "versionName":"2.6",
+    "versionCode":"19",
+    "versionName":"2.7",
     "size":"8.02",
-    "date":"2018-03-06",
-    "content":"增加弹幕助手、实时弹幕
-增加压分统计"
+    "date":"2018-03-29",
+    "content":"实时礼物、礼物统计"
 }
