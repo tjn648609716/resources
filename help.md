@@ -17,7 +17,7 @@
 
 ![d4_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d4.png)
 
-> * 6、输入您喜欢的机器人名字后添加到群组（推荐添加到主页通知：钉钉应用健康小秘）点击下一步
+> * 6、输入您喜欢的机器人名字后添加到群组，安全设置选择“自定义关键词”，关键词输入“来自” 点击完成
 
 ![d5_png](https://raw.githubusercontent.com/tjn648609716/resources/master/images/d5.png)
 
